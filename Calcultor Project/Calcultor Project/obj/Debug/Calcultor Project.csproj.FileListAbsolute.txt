@@ -1,0 +1,20 @@
+J:\programming\Calcultor Project\Calcultor Project\bin\Debug\Calcultor Project.exe.config
+J:\programming\Calcultor Project\Calcultor Project\bin\Debug\Calcultor Project.exe
+J:\programming\Calcultor Project\Calcultor Project\bin\Debug\Calcultor Project.pdb
+J:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor Project.csproj.AssemblyReference.cache
+J:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor_Project.Form1.resources
+J:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor_Project.Properties.Resources.resources
+J:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor Project.csproj.GenerateResource.cache
+J:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor Project.csproj.CoreCompileInputs.cache
+J:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor Project.exe
+J:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor Project.pdb
+E:\programming\Calcultor Project\Calcultor Project\bin\Debug\Calcultor Project.exe.config
+E:\programming\Calcultor Project\Calcultor Project\bin\Debug\Calcultor Project.exe
+E:\programming\Calcultor Project\Calcultor Project\bin\Debug\Calcultor Project.pdb
+E:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor Project.csproj.AssemblyReference.cache
+E:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor_Project.Form1.resources
+E:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor_Project.Properties.Resources.resources
+E:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor Project.csproj.GenerateResource.cache
+E:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor Project.csproj.CoreCompileInputs.cache
+E:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor Project.exe
+E:\programming\Calcultor Project\Calcultor Project\obj\Debug\Calcultor Project.pdb
